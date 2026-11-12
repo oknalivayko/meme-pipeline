@@ -1,0 +1,10 @@
+.env
+/targets.json
+/data/
+/exports/
+/assets/fonts/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.DS_Store

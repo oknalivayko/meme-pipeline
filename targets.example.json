@@ -1,0 +1,27 @@
+{
+  "targets": [
+    {
+      "name": "everyday-humor",
+      "chat_id": "@your_channel",
+      "score_field": "laugh_score",
+      "min_score": 1.2,
+      "donors": {
+        "Office jokes": 3,
+        "Cat pictures": 1
+      },
+      "weekly": {
+        "0": ["meme", "story", "meme", "meme"],
+        "1": ["meme", "meme", "quote", "meme"],
+        "2": ["meme", "meme", "meme", "story"],
+        "3": ["meme", "quote", "meme", "meme"],
+        "4": ["meme", "story", "meme", "meme"],
+        "5": ["meme", "meme", "quote", "meme"],
+        "6": ["meme", "meme", "meme"]
+      },
+      "fallbacks": {
+        "story": ["quote", "meme"],
+        "quote": ["story", "meme"]
+      }
+    }
+  ]
+}

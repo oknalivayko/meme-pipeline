@@ -1,0 +1,83 @@
+{
+ "name": "Office jokes",
+ "type": "public_channel",
+ "id": 4,
+ "messages": [
+  {
+   "id": 1,
+   "type": "message",
+   "date": "2024-05-02T10:00:00",
+   "photo": "photos/photo_1@2024-05-02.jpg",
+   "text": "Monday meeting energy",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 900
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 100
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2024-05-05T10:00:00",
+   "photo": "photos/photo_2@2024-05-05.jpg",
+   "text": "",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 120
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 80
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2024-05-09T10:00:00",
+   "photo": "photos/photo_3@2024-05-09.jpg",
+   "text": "When the build passes on the first try",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 300
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 50
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2024-05-14T10:00:00",
+   "photo": "photos/photo_4@2024-05-14.jpg",
+   "text": "",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 60
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 40
+    }
+   ]
+  }
+ ]
+}

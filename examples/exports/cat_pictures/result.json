@@ -1,0 +1,64 @@
+{
+ "name": "Cat pictures",
+ "type": "public_channel",
+ "id": 3,
+ "messages": [
+  {
+   "id": 1,
+   "type": "message",
+   "date": "2024-05-03T10:00:00",
+   "photo": "photos/photo_1@2024-05-03.jpg",
+   "text": "",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 40
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2024-05-06T10:00:00",
+   "photo": "photos/photo_2@2024-05-06.jpg",
+   "text": "Supervisor on duty",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 25
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 30
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2024-05-11T10:00:00",
+   "photo": "photos/photo_3@2024-05-11.jpg",
+   "text": "",
+   "reactions": [
+    {
+     "type": "emoji",
+     "emoji": "😂",
+     "count": 5
+    },
+    {
+     "type": "emoji",
+     "emoji": "❤",
+     "count": 60
+    }
+   ]
+  }
+ ]
+}
